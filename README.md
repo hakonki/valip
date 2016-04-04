@@ -3,9 +3,11 @@
 Valip is a validation library for Clojure. It is primarily designed to validate
 keyword-string maps, such as one might get from a HTML form.
 
-**This is an experimental fork of [Chas Emerick](https://github.com/cemerick)'s for [James
+**This is an experimental fork of [Chas Emerick](https://github.com/cemerick)'s fork of [James
 Reeves](http://github.com/weavejester)'
-[valip](http://github.com/weavejester/valip) library.** 
+[valip](http://github.com/weavejester/valip) library. 
+The fork was created while following [Mimmo Cosenza](https://github.com/magomimmo)'s 
+excellent series of ClojureScript tutorials [modern-cljs](https://github.com/magomimmo/modern-cljs).**
 
 We try to make it clojure 1.7 compliant using reader conditionals to enable portability between Clojure and ClojureScript.
 
